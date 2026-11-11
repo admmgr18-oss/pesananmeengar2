@@ -1,8 +1,8 @@
 {
-  "name": "Pesanan Tambahan",
-  "short_name": "Pesanan",
-  "description": "Pesanan tambahan pelayan ↔ pengeluaran, semakan penyelia dan ringkasan harian.",
-  "start_url": "./?src=app",
+ "id": "pesanan-outlet2",
+     "name": "Pesanan Tambahan (Outlet 2)",
+     "short_name": "Pesanan 2",
+     "start_url": "./?src=outlet2",
   "scope": "/pesanan-tambahan/",
   "display": "standalone",
   "orientation": "any",
