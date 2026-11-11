@@ -1,9 +1,9 @@
 {
-  "name": "Pesanan Tambahan DKP 21.2",
+  "name": "Pesanan Tambahan",
   "short_name": "Pesanan",
   "description": "Pesanan tambahan pelayan ↔ pengeluaran, semakan penyelia dan ringkasan harian.",
   "start_url": "./?src=app",
-  "scope": "./",
+  "scope": "/pesanan-tambahan/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#eef2ef",
